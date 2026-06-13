@@ -14,6 +14,4 @@ A small interactive Pygame sandbox to visualize a ball-drop loss landscape.
 
 ## Demo
 
-<video src="demo.mp4" controls width="800"></video>
-
-If your Markdown viewer does not render video, open [demo.mp4](demo.mp4) directly.
+![demo](demo.gif)
